@@ -2,10 +2,6 @@
 
 A modern full-stack application that leverages AI to intelligently match users with relevant job opportunities based on their skills, experience, and preferences.
 
-## 🚀 Live Demo
-
-- **Frontend**: [https://ai-powered-job-match-platform-client.vercel.app/](https://ai-powered-job-match-platform-client.vercel.app/)
-- **Backend API**: [https://ai-powered-job-match-platform-chi.vercel.app/](https://ai-powered-job-match-platform-chi.vercel.app/)
 
 ## ✨ Features
 
@@ -405,5 +401,3 @@ VITE_API_URL=https://ai-powered-job-match-platform-chi.vercel.app/api
 - Job listings are relatively static (suitable for seeded data)
 - AI recommendations focus on skill matching over complex career progression
 - Free tier API limits are sufficient for demo purposes
-
-**Built with ❤️ by [Piyush Guyal](https://github.com/piyushgyl01)**
